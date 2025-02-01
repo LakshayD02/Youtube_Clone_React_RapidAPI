@@ -1,4 +1,4 @@
-# Modern YouTube Clone Application YouTube Clone with React, Material UI, and RapidAPI
+#  YouTube Clone with React, Material UI, and RapidAPI
 
 ## Description
 

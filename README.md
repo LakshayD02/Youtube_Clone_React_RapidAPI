@@ -36,7 +36,7 @@ This YouTube clone aims to replicate core functionalities of the popular video-s
 # Install dependencies  
 #  npm install
 
-# Set up API Keys (Explain how to get and configure API keys from RapidAPI)
+# Set up API Keys 
 
 # Run the application
 # npm start

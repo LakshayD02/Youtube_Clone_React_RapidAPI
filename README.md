@@ -18,6 +18,9 @@ This YouTube clone aims to replicate core functionalities of the popular video-s
 
 *   **Modern UI:** Clean and intuitive user interface using Material UI components. ✨
 
+*   **Responsive Design:**  The application is designed to be responsive, adapting to various screen sizes and devices (desktops, tablets, and mobile phones). 📱💻
+
+
 ## Technologies Used
 
 *   **React:**  Frontend JavaScript library for building the user interface. ⚛️
